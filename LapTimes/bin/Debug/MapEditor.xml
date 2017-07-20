@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Gamepad>true</Gamepad>
+  <CrosshairType>Crosshair</CrosshairType>
+  <CameraSensivity>30</CameraSensivity>
+  <GamepadCameraSensitivity>5</GamepadCameraSensitivity>
+  <KeyboardMovementSensitivity>30</KeyboardMovementSensitivity>
+  <GamepadMovementSensitivity>15</GamepadMovementSensitivity>
+  <InstructionalButtons>true</InstructionalButtons>
+  <PropCounterDisplay>true</PropCounterDisplay>
+  <SnapCameraToSelectedObject>true</SnapCameraToSelectedObject>
+  <ActivationKey>F7</ActivationKey>
+  <AutosaveInterval>5</AutosaveInterval>
+  <DrawDistance>-1</DrawDistance>
+  <LoadScripts>true</LoadScripts>
+  <BoundingBox xsi:nil="true" />
+</Settings>

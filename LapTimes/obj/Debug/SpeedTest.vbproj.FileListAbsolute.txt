@@ -1,0 +1,16 @@
+D:\GTAV Mods\LapTimes\LapTimes\bin\Debug\INMNativeUI.dll
+D:\GTAV Mods\LapTimes\LapTimes\bin\Debug\ScriptHookVDotNet.dll
+D:\GTAV Mods\LapTimes\LapTimes\bin\Debug\ScriptHookVDotNet.xml
+D:\GTAV Mods\LapTimes\LapTimes\obj\Debug\SpeedTest.vbprojResolveAssemblyReference.cache
+D:\GTAV Mods\LapTimes\LapTimes\obj\Debug\SpeedTest.Resources.resources
+D:\GTAV Mods\LapTimes\LapTimes\obj\Debug\SpeedTest.vbproj.GenerateResource.Cache
+D:\GTAV Mods\LapTimes\LapTimes\bin\Debug\Stopwatch.dll.config
+D:\GTAV Mods\LapTimes\LapTimes\bin\Debug\Stopwatch.dll
+D:\GTAV Mods\LapTimes\LapTimes\bin\Debug\Stopwatch.pdb
+D:\GTAV Mods\LapTimes\LapTimes\bin\Debug\Stopwatch.xml
+D:\GTAV Mods\LapTimes\LapTimes\obj\Debug\Stopwatch.dll
+D:\GTAV Mods\LapTimes\LapTimes\obj\Debug\Stopwatch.xml
+D:\GTAV Mods\LapTimes\LapTimes\obj\Debug\Stopwatch.pdb
+D:\GTAV Mods\LapTimes\LapTimes\bin\Debug\MapEditor.dll
+D:\GTAV Mods\LapTimes\LapTimes\bin\Debug\ClearScript.dll
+D:\GTAV Mods\LapTimes\LapTimes\bin\Debug\MapEditor.xml

@@ -1,0 +1,12 @@
+D:\GTAV Mods\LapTimes\LapTimes\bin\Debug\LapTimes.dll
+D:\GTAV Mods\LapTimes\LapTimes\bin\Debug\LapTimes.pdb
+D:\GTAV Mods\LapTimes\LapTimes\bin\Debug\LapTimes.xml
+D:\GTAV Mods\LapTimes\LapTimes\bin\Debug\INMNativeUI.dll
+D:\GTAV Mods\LapTimes\LapTimes\bin\Debug\ScriptHookVDotNet.dll
+D:\GTAV Mods\LapTimes\LapTimes\bin\Debug\ScriptHookVDotNet.xml
+D:\GTAV Mods\LapTimes\LapTimes\obj\Debug\LapTimes.vbprojResolveAssemblyReference.cache
+D:\GTAV Mods\LapTimes\LapTimes\obj\Debug\LapTimes.Resources.resources
+D:\GTAV Mods\LapTimes\LapTimes\obj\Debug\LapTimes.vbproj.GenerateResource.Cache
+D:\GTAV Mods\LapTimes\LapTimes\obj\Debug\LapTimes.dll
+D:\GTAV Mods\LapTimes\LapTimes\obj\Debug\LapTimes.xml
+D:\GTAV Mods\LapTimes\LapTimes\obj\Debug\LapTimes.pdb
